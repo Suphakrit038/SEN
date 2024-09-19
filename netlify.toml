@@ -1,0 +1,4 @@
+[build]
+  base = "your/base/directory" # แทนที่ด้วยไดเรกทอรีที่ต้องการ
+  publish = "your/publish/directory" # แทนที่ด้วยไดเรกทอรีที่ต้องการ
+  command = "your build command" # ตัวอย่างเช่น "npm run build" หรือ "gulp build"
